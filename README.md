@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Anurag Kumar 👋🧠
+# Hey, I'm Anurag 👋
 
 ### *"Turning complexity into code, one breakthrough at a time."*
 
