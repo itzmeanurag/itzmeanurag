@@ -167,9 +167,15 @@ I run **two YouTube channels** focused on AI engineering and cloud architecture:
 
 <div align="center">
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzmeanurag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=itzmeanurag&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeanurag&layout=compact&theme=tokyonight&hide_border=true)
+![Anurag's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzmeanurag&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzmeanurag&theme=tokyonight)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzmeanurag&theme=tokyonight)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzmeanurag&theme=tokyonight)
 
 </div>
 
